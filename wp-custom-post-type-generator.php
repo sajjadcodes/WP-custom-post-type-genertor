@@ -1,9 +1,10 @@
 <?php
 /*
-Plugin Name: Custom Post Type Generator
+Plugin Name: WP Custom Post Type Generator
 Description: Generate custom post types with ease from the admin and frontend.
 Version: 1.0
-Author: Your Name
+Author: Sajad Hussain
+Author URI: https://sajadcodes.com
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
